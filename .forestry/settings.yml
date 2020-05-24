@@ -8,7 +8,7 @@ sections:
   label: Content
 - type: directory
   path: content/posts
-  label: Blog Posts
+  label: Postagens no blog
   create: documents
   match: "**/*"
   new_doc_ext: md
@@ -16,7 +16,7 @@ sections:
   - blog-post
 - type: document
   path: content/data/authors.yaml
-  label: Author List
+  label: Autores
 - type: document
   path: content/data/info.json
   label: Info Page
