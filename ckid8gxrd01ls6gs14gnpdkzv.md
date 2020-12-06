@@ -1,4 +1,4 @@
-## Como implementar um switch de tema escuro e claro no Gatsby com Styled Components
+## Como implementar um switch de tema dark/light no Gatsby com Styled Components
 
 ![Screenshot da tela do gatsby-starter-blog com um tema dark aplicado e um switch que faz o toggle entre ele e o tema light](https://cdn.hashnode.com/res/hashnode/image/upload/v1607264766379/Yx_Xj-fcK.png)
 
