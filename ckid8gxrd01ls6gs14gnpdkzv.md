@@ -33,7 +33,7 @@ Vamos dividir a implementação do dark mode em três etapas:
 
 ### Theme
 
-Vamos criar nosso `theme.js` na nossa pasta `components`. Nesse arquivo nós vamos exportar dois objetos: o *darkTheme* e o *lightTheme*. Se o seu projeto tem mais temas, você pode adicioná-los aqui. Coloque as cores da sua preferência e [não se esqueça de checar o contraste entre elas](link futuro)! O meu ficou assim:
+Vamos criar nosso `theme.js` na nossa pasta `components`. Nesse arquivo nós vamos exportar dois objetos: o *darkTheme* e o *lightTheme*. Se o seu projeto tem mais temas, você pode adicioná-los aqui. Coloque as cores da sua preferência e *não se esqueça de checar o contraste entre elas*! O meu ficou assim:
 
 ```javascript
 const white = "#FFFFFF"
