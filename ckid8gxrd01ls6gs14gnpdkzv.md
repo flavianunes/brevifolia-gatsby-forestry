@@ -1,7 +1,5 @@
 ## Como implementar um switch de tema dark/light no Gatsby com Styled Components
 
-![Screenshot da tela do gatsby-starter-blog com um tema dark aplicado e um switch que faz o toggle entre ele e o tema light](https://cdn.hashnode.com/res/hashnode/image/upload/v1607264766379/Yx_Xj-fcK.png)
-
 Permitir a utilização de um tema escuro (dark mode) no seu blog tem alguns benefícios, como **economia de bateria** e uma leitura mais confortável em ambientes escuros. Neste tutorial nós vamos aprender como deixar a pessoa usuária escolher entre um tema escuro e claro, utilizando Gatsby e Styled Components. 
 
 # Implementação
